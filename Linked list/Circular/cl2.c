@@ -1,4 +1,4 @@
-// linked list
+ // linked list
 #include <stdio.h>
 #include <malloc.h>
 // node of linked list
